@@ -6,8 +6,7 @@
     "build": "hexo generate",
     "clean": "hexo clean",
     "deploy": "hexo deploy",
-    "server": "hexo server",
-    "postinstall": "node scripts/giscus-patch.js"
+    "server": "hexo server"
   },
   "hexo": {
     "version": "8.1.2"
@@ -26,7 +25,6 @@
     "hexo-server": "^3.0.0",
     "hexo-symbols-count-time": "^0.7.1",
     "hexo-theme-landscape": "^1.0.0",
-    "hexo-theme-vivia": "^0.5.0",
     "stylus": "^0.64.0"
   }
 }

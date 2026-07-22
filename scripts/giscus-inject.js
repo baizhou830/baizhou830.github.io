@@ -1,2 +1,1 @@
-// 占位文件 - giscus 已通过 postinstall patch 方式集成
-// 请勿删除此文件
+// 已废弃 - Giscus 评论已直接集成到 themes/vivia 主题模板中
