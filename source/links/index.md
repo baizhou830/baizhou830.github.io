@@ -7,4 +7,4 @@ date: 2026-07-22 16:30:00
 
 | 头像 | 名称 | 简介 | 链接 |
 |:----:|:----:|:----:|:----:|
-| ![头像](/images/oflash.png) | Oflash | 联合博客 | [访问](https://oflash.asia/) |
+|   | Oflash | 联合博客 | [访问](https://oflash.asia/) |
