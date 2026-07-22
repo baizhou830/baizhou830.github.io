@@ -96,7 +96,11 @@ ignore:
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: butterfly
+theme: vivia
+
+# Archive generator (required by vivia theme)
+archive_generator:
+  per_page: 0
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
