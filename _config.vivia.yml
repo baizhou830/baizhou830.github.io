@@ -12,29 +12,23 @@ favicon:                   # Favicon 文件路径，相对于 /source 目录（�
 
 # 横幅图片
 banner:
-  enable: false                  # 是否显示横幅图片
-  url:                           # 横幅图片文件路径，相对于 /source 目录，也可填写网络图片 URL
-  position: center               # 决定图片将如何被裁剪，对应 CSS 中的 "object-position" 属性
-  onAllPages: true               # 在所有页面上显示横幅，而不是只在首页显示
+  enable: true                  # 是否显示横幅图片
+  url: /images/banner.png       # 横幅图片文件路径，相对于 /source 目录，也可填写网络图片 URL
+  position: center              # 决定图片将如何被裁剪，对应 CSS 中的 "object-position" 属性
+  onAllPages: true              # 在所有页面上显示横幅，而不是只在首页显示
 
 # 外观
 hue: 250                         # 主题色调 (例如：红: 0，橙: 60，蓝：260，紫：300，粉：345)
                                  # 可访问 `saicaca.github.io/vivia-preview` 预览颜色设置
 
 # 个人信息
-avatar:                          # 头像图片文件路径，相对于 /source 目录
-author: Your Name
-subtitle: This is the subtitle
+avatar: /images/avatar.jpg          # 头像图片文件路径，相对于 /source 目录
+author: 轴中
+subtitle: 欢迎来到轴中Axlewire的个人主页
 links:
-  - name: Twitter
-    icon: fa-brands fa-twitter      # 访问 https://fontawesome.com/search 获取图标代码
-    url: https://twitter.com
-  - name: Steam
-    icon: fa-brands fa-steam
-    url: https://store.steampowered.com
   - name: GitHub
     icon: fa-brands fa-github
-    url: https://github.com
+    url: https://github.com/baizhou830
 
 # 侧边栏
 sidebar:
