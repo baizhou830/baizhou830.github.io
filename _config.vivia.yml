@@ -70,6 +70,19 @@ comment:
     path: location.pathname
     lang:
     # 详见 https://github.com/imaegoo/twikoo
+  giscus:
+    enable: true
+    repo: baizhou830/baizhou830.github.io
+    repoId: R_kgDOTf213Q
+    category: Announcements
+    categoryId: DIC_kwDOTf213c4DBu2-
+    mapping: pathname
+    strict: '0'
+    reactionsEnabled: '1'
+    emitMetadata: '0'
+    inputPosition: bottom
+    theme: preferred_color_scheme
+    lang: zh-CN
 
 #Analytics
 gauges_analytics: false
