@@ -19,6 +19,12 @@ date: 2026-07-22 16:30:00
 <td>联合博客</td>
 <td><a href="https://oflash.asia/">访问</a></td>
 </tr>
+<tr>
+<td><img src="https://luoshulv.netlify.app/%E9%95%BF%E5%BE%81%E6%9C%BA%E5%A4%B4%E5%83%8F1.png" width="64" height="64" alt="Firmamento"></td>
+<td><a href="https://luoshulv.netlify.app/">Firmamento</a></td>
+<td>互联网无尽海洋中的一片星空</td>
+<td><a href="https://luoshulv.netlify.app/">访问</a></td>
+</tr>
 </table>
 
 
