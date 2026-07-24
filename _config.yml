@@ -102,6 +102,14 @@ theme: vivia
 archive_generator:
   per_page: 0
 
+# Feed (RSS)
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content: true
+
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
