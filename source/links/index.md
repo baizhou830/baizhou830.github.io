@@ -5,9 +5,21 @@ date: 2026-07-22 16:30:00
 
 ## 友链
 
-| 头像 | 名称 | 简介 | 链接 |
-|:----:|:----:|:----:|:----:|
-|   | Oflash | 联合博客 | [访问](https://oflash.asia/) |
+<table>
+<tr><th>头像</th><th>名称</th><th>简介</th><th>链接</th></tr>
+<tr>
+<td><img src="https://leenet.xyz/avatar.png" width="64" height="64" alt="里世界"></td>
+<td><a href="https://leenet.xyz">里世界</a></td>
+<td>Welcome To The World Of Lee</td>
+<td><a href="https://leenet.xyz">访问</a></td>
+</tr>
+<tr>
+<td><img src="https://oflash.asia/logo.png" width="64" height="64" alt="Oflash"></td>
+<td>Oflash</td>
+<td>联合博客</td>
+<td><a href="https://oflash.asia/">访问</a></td>
+</tr>
+</table>
 
 
 ### 讨论
