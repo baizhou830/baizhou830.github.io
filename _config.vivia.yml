@@ -1,15 +1,15 @@
 # 导航栏
 menu:                      # 导航栏上的链接
-  Home: /
-  Archives: /archives
-  Links: /links
-  About: /about
+  主页: /
+  时间轴: /archives
+  友链: /links
+  关于: /about
 rss: /atom.xml
 
 home:
   style: default           # default, detail
 
-favicon:                   # Favicon 文件路径，相对于 /source 目录（若你的 Favicon 文件位于 /source/favicon.png 则填写 "/favicon.png"）
+favicon: /images/banner.jpg    # Favicon 文件路径，相对于 /source 目录（若你的 Favicon 文件位于 /source/favicon.png 则填写 "/favicon.png"）
 
 # 横幅图片
 banner:
@@ -25,7 +25,7 @@ hue: 250                         # 主题色调 (例如：红: 0，橙: 60，蓝
 # 个人信息
 avatar: /images/avatar.jpg          # 头像图片文件路径，相对于 /source 目录
 author: 轴中
-subtitle: 欢迎来到轴中Axlewire的个人主页
+subtitle: Axlewire个人博客
 links:
   - name: GitHub
     icon: fa-brands fa-github
