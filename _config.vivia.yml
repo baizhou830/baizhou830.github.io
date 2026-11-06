@@ -25,7 +25,7 @@ hue: 250                         # 主题色调 (例如：红: 0，橙: 60，蓝
 # 个人信息
 avatar: /images/avatar.jpg          # 头像图片文件路径，相对于 /source 目录
 author: 轴中
-subtitle: Axlewire个人博客
+subtitle: Attention Is All You Need.
 links:
   - name: GitHub
     icon: fa-brands fa-github
